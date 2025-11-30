@@ -23,8 +23,8 @@ React, Vite, JSON Server, React Router, Context API, React Icons.
 
 Clona el repo:
 ```
-git clone https://github.com/tu-usuario/medical-panel.git
-cd medical-panel
+git clone https://github.com/Sam-Delrio/reservas_medicas
+cd reservas_medicas
 
 ```
 
